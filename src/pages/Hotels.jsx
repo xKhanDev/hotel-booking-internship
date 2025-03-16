@@ -24,8 +24,10 @@ export default function Hotels() {
         />
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-4">
           {hotels
-            .filter((hotel) =>
-              hotel.location.toLowerCase().includes(search.toLowerCase())
+            .filter(
+              (hotel) =>
+                hotel.location.toLowerCase().includes(search.toLowerCase()) ||
+                hotel.name.toLowerCase().includes(search.toLowerCase())
             )
             .map((hotel) => (
               <HotelCard key={hotel.id} hotel={hotel} />
