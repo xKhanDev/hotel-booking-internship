@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Luxury Hotel",
+      "location": "New York",
+      "price": 150,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["WiFi", "Pool", "Gym"],
+      "description": "A luxury hotel with modern facilities."
+    },
+    {
+      "id": 2,
+      "name": "Beach Resort",
+      "location": "California",
+      "price": 200,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1518791841217-8f3eef1649f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Beach", "Spa", "WiFi"],
+      "description": "A beachfront resort with spa services."
+    },
+    {
+      "id": 3,
+      "name": "Mountain Lodge",
+      "location": "Colorado",
+      "price": 120,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1569982174992-85b1fb757697?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Skiing", "Hot Tub", "Fireplace"],
+      "description": "A cozy mountain lodge with ski-in/ski-out access."
+    },
+    {
+      "id": 4,
+      "name": "City Hotel",
+      "location": "Chicago",
+      "price": 180,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["WiFi", "Gym", "Restaurant"],
+      "description": "A modern city hotel with a rooftop bar."
+    },
+    {
+      "id": 5,
+      "name": "Budget Inn",
+      "location": "Florida",
+      "price": 80,
+      "rating": 3.8,
+      "image": "https://images.unsplash.com/photo-1514933651103-0144f7860673?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["WiFi", "Parking", "Breakfast"],
+      "description": "A budget-friendly hotel with a free breakfast buffet."
+    },
+    {
+      "id": 6,
+      "name": "Lake Resort",
+      "location": "Wisconsin",
+      "price": 220,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Lake", "Boat Rentals", "Fishing"],
+      "description": "A lakefront resort with boat rentals and fishing guides."
+    },
+    {
+      "id": 7,
+      "name": "Desert Oasis",
+      "location": "Arizona",
+      "price": 250,
+      "rating": 5.0,
+      "image": "https://images.unsplash.com/photo-1514933651103-0144f7860673?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Pool", "Spa", "Golf"],
+      "description": "A luxurious desert oasis with a private golf course."
+    },
+    {
+      "id": 8,
+      "name": "Mountain Chalet",
+      "location": "Utah",
+      "price": 190,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1569982174992-85b1fb757697?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Skiing", "Hot Tub", "Fireplace"],
+      "description": "A cozy mountain chalet with ski-in/ski-out access."
+    },
+    {
+      "id": 9,
+      "name": "Beachside Condo",
+      "location": "Hawaii",
+      "price": 350,
+      "rating": 5.0,
+      "image": "https://images.unsplash.com/photo-1518791841217-8f3eef1649f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Beach", "Pool", "Kitchen"],
+      "description": "A beachside condo with a private pool and kitchen."
+    },
+    {
+      "id": 10,
+      "name": "City Hostel",
+      "location": "New York",
+      "price": 30,
+      "rating": 3.9,
+      "image": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["WiFi", "Kitchen", "Lounge"],
+      "description": "A budget-friendly hostel with a shared kitchen and lounge."
+    },
+    {
+      "id": 11,
+      "name": "Mountain Cabin",
+      "location": "North Carolina",
+      "price": 160,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1569982174992-85b1fb757697?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Hiking", "Fishing", "Fireplace"],
+      "description": "A cozy mountain cabin with hiking and fishing access."
+    },
+    {
+      "id": 12,
+      "name": "Lake Cottage",
+      "location": "Michigan",
+      "price": 200,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "amenities": ["Lake", "Boat Rentals", "Fishing"],
+      "description": "A lakefront cottage with boat rentals and fishing guides."
+    }
+]
